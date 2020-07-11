@@ -5,7 +5,7 @@ Minha jornada na programação começou em 2016, e até então, tive a oportunid
 
 No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartandev.com.br), no intuito de compartilhar conteúdos sobre Desenvolvimento Web e Mobile, UX Design,  Marketing Pessoal, Produtividade, Estilo de Vida e todos os sub-assuntos relacionados a isso.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border: 1px solid gray"> </hr>
 
 ### :link: Vamos nos conectar?
 Gosto muito de fazer novas amizades, e você?  
@@ -22,7 +22,7 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem
 [![Gitlab](https://img.shields.io/badge/-Gitlab-2e2e2e?logo=Gitlab&logoColor=white&link=https://gitlab.com/jimmybastos)](https://gitlab.com/jimmybastos)
 ![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border: 1px solid gray"> </hr>
 
 ### :zap: Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
@@ -36,7 +36,7 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS/SASS-1572B6?logo=CSS3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border: 1px solid gray"> </hr>
 
 ### :wrench: Ferramentas
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
@@ -55,14 +55,14 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem
 
 <!-- ### Projetos-->
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border: 1px solid gray"> </hr>
 
 ### :mortar_board: Formação
 #### Instituto Federal de Educação, Ciência e Tecnologia da Bahia - *IFBA*
 _Análise e Desenvolvimento de Sistemas | Mar. de 2015 a Jun. de 2019_   
 Análise, projeto, documentação, especificação de requisitos, testes, implementação, implantação e manutenção de sistemas computacionais.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border: 1px solid gray"> </hr>
 <!-- ### Cursos-->
 
 ### :pushpin: Interesses
