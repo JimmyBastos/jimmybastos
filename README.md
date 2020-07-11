@@ -50,8 +50,8 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
 [![Standard JS](https://img.shields.io/badge/-Standard-000?logo=JavaScript&Color=white&link=https://standardjs.com/)](https://standardjs.com/)
 
-<!-- ### Projetos-->
-
+<!-- 
+### Projetos
 <hr style="border: 1px solid gray"> </hr>
 
 ### :mortar_board: Formação
@@ -60,7 +60,7 @@ _Análise e Desenvolvimento de Sistemas | Mar. de 2015 a Jun. de 2019_
 Análise, projeto, documentação, especificação de requisitos, testes, implementação, implantação e manutenção de sistemas computacionais.
 
 <hr style="border: 1px solid gray"> </hr>
-<!-- ### Cursos-->
+### Cursos
 
 ### :pushpin: Interesses
 - Machine Learning
@@ -68,4 +68,4 @@ Análise, projeto, documentação, especificação de requisitos, testes, implem
 - Open Source
 - Finances
 - Marketing
-
+-->
