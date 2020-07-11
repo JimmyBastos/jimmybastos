@@ -5,10 +5,7 @@ Minha jornada na programação começou em 2016, e até então, tive a oportunid
 
 No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartandev.com.br), no intuito de compartilhar conteúdos sobre Desenvolvimento Web e Mobile, UX Design,  Marketing Pessoal, Produtividade, Estilo de Vida e todos os sub-assuntos relacionados a isso.
 
-<hr style="border: 1px solid gray"> </hr>
-
-### :link: Vamos nos conectar?
-Gosto muito de fazer novas amizades, e você?  
+Além do mais, gosto muito de fazer novas amizades, e você?  
 
 Então... Que tal me adicionar nas redes sociais?
 
