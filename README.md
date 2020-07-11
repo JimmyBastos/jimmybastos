@@ -7,7 +7,7 @@ No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartande
 
 <hr style="border:2px solid gray"> </hr>
 
-### :speech_balloon: Vamos nos conectar!
+### :link: Vamos nos conectar?
 Gosto muito de fazer novas amizades, e você?  
 
 Então... Que tal me adicionar nas redes sociais?
