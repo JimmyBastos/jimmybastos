@@ -7,16 +7,6 @@ No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartande
 
 <hr style="border: 1px solid gray"> </hr>
 
-### :mag: Stalk me
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/spartan.dev/)
-[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:jimmy@spartandev.com.br)](mailto:jimmy@spartandev.com.br)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-2e2e2e?logo=Gitlab&logoColor=white&link=https://gitlab.com/jimmybastos)](https://gitlab.com/jimmybastos)
-![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
-
-<hr style="border: 1px solid gray"> </hr>
-
 ### :zap: Stack
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
@@ -43,6 +33,16 @@ No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartande
 [![Webpack](https://img.shields.io/badge/-Webpack-3066bc?logo=webpack&Color=white&link=https://webpack.js.org/)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
 [![Standard JS](https://img.shields.io/badge/-Standard-000?logo=JavaScript&Color=white&link=https://standardjs.com/)](https://standardjs.com/)
+
+<hr style="border: 1px solid gray"> </hr>
+
+### :mag: Stalk me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/spartan.dev/)
+[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:jimmy@spartandev.com.br)](mailto:jimmy@spartandev.com.br)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-2e2e2e?logo=Gitlab&logoColor=white&link=https://gitlab.com/jimmybastos)](https://gitlab.com/jimmybastos)
+![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
 
 <!-- 
 ### Projetos
