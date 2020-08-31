@@ -5,13 +5,9 @@ Minha jornada na programação começou em 2016, e até então, tive a oportunid
 
 No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartandev.com.br), no intuito de compartilhar conteúdos sobre Desenvolvimento Web e Mobile, UX Design,  Marketing Pessoal, Produtividade, Estilo de Vida e todos os sub-assuntos relacionados a isso.
 
-Além do mais, gosto muito de fazer novas amizades, e você?  
+<hr style="border: 1px solid gray"> </hr>
 
-Então... Que tal me adicionar nas redes sociais?
-
-Fique a vontade pra me chamar no direct ou enviar e-mail, tenho certeza que podemos trocar experiências e aprender muito juntos!
-
-Não precisa ter vergonha! Vou ficar esperando sua mensagem :wink:
+### :mag: Stalk me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/spartan.dev/)
