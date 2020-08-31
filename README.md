@@ -30,8 +30,6 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem :wink:
 [![React Native](https://img.shields.io/badge/-React_Native-4B8BF5?logo=Android&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
 [![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&link=https://vuejs.org/)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=Nuxt.js&logoColor=white&link=https://nuxtjs.org/)](https://nuxtjs.org/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/-CSS/SASS-1572B6?logo=CSS3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <hr style="border: 1px solid gray"> </hr>
 
