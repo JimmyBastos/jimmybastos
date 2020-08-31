@@ -29,6 +29,7 @@ No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartande
 [![VsCode](https://img.shields.io/badge/-VSCode-397ef8?logo=visual-studio-code&Color=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&Color=white&link=https://www.postman.com/)](https://www.postman.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-141631?logo=yarn&Color=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+
 [![Babel](https://img.shields.io/badge/-Babel-000?logo=babel&Color=white&link=https://babeljs.io/)](https://babeljs.io/)
 [![Webpack](https://img.shields.io/badge/-Webpack-3066bc?logo=webpack&Color=white&link=https://webpack.js.org/)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
