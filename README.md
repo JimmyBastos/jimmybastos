@@ -1,4 +1,3 @@
-### Olá, que bom que está aqui!
 Me chamo **Jimmy Bastos**, sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado pelas mais cativantes tecnologias do desenvolvimento **Web e Mobile**.
 
 Minha jornada na programação começou em 2016, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, construção das APIs, até a  implantação e integração com parceiros.
