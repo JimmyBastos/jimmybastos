@@ -2,7 +2,7 @@ Me chamo **Jimmy Bastos**, sou formado em **Análise e Desenvolvimento de Sistem
 
 Minha jornada na programação começou em 2016, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, construção das APIs, até a  implantação e integração com parceiros.
 
-No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartandev.com.br), no intuito de compartilhar conteúdos sobre Desenvolvimento Web e Mobile, UX Design,  Marketing Pessoal, Produtividade, Estilo de Vida e todos os sub-assuntos relacionados a isso.
+No meu tempo livre, curto falar e estudar sobre assuntos como Desenvolvimento Web e Mobile, UX Design, Marketing Digital, Estilo de Vida e todos os sub-assuntos relacionados a isso.
 
 <hr style="border: 1px solid gray"> </hr>
 
