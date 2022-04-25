@@ -1,10 +1,6 @@
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=radical)
-
-
-Me chamo **Jimmy Bastos**, sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado pelas mais cativantes tecnologias do desenvolvimento **Web e Mobile**.
-
-Minha jornada na programação começou em 2015 na universidade, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de aplicações Web e Mobile.
+### Olá, sou Jimmy Bastos :wave:
+Minha jornada na programação começou em 2015 na universidade de Análise e Desenvolvimento de Sistemas, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de aplicações Web e Mobile.
 
 Hoje atuo como desenvolvedor na Paggue :purple_heart:, uma empresa de processamento de pagamentos por boleto, pix e cartão de crédito. 
 
@@ -25,5 +21,18 @@ Nosso maior desafio é manter todos os serviços e apps online durante 100% do t
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/eujimmybastos/)
 ![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
+
+### Estatísticas
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top" >
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=dracula&hide=stars" />
+    </td>
+    <td valign="top">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmybastos&layout=compact&theme=dracula&hide=java,html,objective-c" />
+    </td>
+  </tr>
+</table>
 
 
