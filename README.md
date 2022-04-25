@@ -9,11 +9,11 @@ Nosso maior desafio é manter todos os serviços e apps online durante 100% do t
 ### :rocket: Estatísticas
 
 <table cellpadding="0">
-  <tr>
-    <td valign="top" style="padding: 0">
+  <tr  style="padding: 0">
+    <td valign="top">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmybastos&layout=compact&theme=dark&hide=java,html,objective-c" />
     </td>
-    <td valign="top" style="padding: 0">
+    <td valign="top">
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=dark&hide=stars" />
     </td>
   </tr>
