@@ -11,10 +11,10 @@ Nosso maior desafio é manter todos os serviços e apps online durante 100% do t
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top" >
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=dracula&hide=stars" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmybastos&layout=compact&theme=dark&hide=java,html,objective-c" />
     </td>
     <td valign="top">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmybastos&layout=compact&theme=dracula&hide=java,html,objective-c" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=dark&hide=stars" />
     </td>
   </tr>
 </table>
