@@ -4,7 +4,7 @@ Minha jornada na programação começou em 2015 na universidade, e até então, 
 
 Hoje atuo como desenvolvedor na Paggue :purple_heart:, uma empresa de processamento de pagamentos por boleto, pix e cartão de crédito. 
 
-Nosso maior desafio é manter todos os serviços e apps online durante 100% do tempo, visto que além de saques, transferências, pagamentos de contas, consultas, são processados lindos milhões em vendas todos os meses, isso totaliza mais de 1000 transações por minuto de ~5000 clientes.
+Nosso maior desafio é manter todos os serviços e apps online durante 100% do tempo, visto que além de saques, transferências, pagamentos de contas, consultas, são processados lindos milhões em vendas todos os meses e isso totaliza mais de 1000 transações por minuto de ~5000 clientes.
 
 <hr style="border: 1px solid gray"> </hr>
 
