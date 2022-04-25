@@ -1,3 +1,7 @@
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=radical)
+
+
 Me chamo **Jimmy Bastos**, sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado pelas mais cativantes tecnologias do desenvolvimento **Web e Mobile**.
 
 Minha jornada na programação começou em 2015 na universidade, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de aplicações Web e Mobile.
@@ -19,10 +23,7 @@ Nosso maior desafio é manter todos os serviços e apps online durante 100% do t
 ### :mag: Stalk me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/spartan.dev/)
-[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:jimmy@spartandev.com.br)](mailto:jimmy@spartandev.com.br)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-2e2e2e?logo=Gitlab&logoColor=white&link=https://gitlab.com/jimmybastos)](https://gitlab.com/jimmybastos)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/eujimmybastos/)
 ![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmybastos&show_icons=true&theme=radical)
 
