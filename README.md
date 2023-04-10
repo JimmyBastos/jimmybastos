@@ -1,11 +1,3 @@
-
-### Olá, sou Jimmy Bastos :wave:
-Minha jornada na programação começou em 2015 na universidade de Análise e Desenvolvimento de Sistemas, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de aplicações Web e Mobile.
-
-Hoje atuo como desenvolvedor na Paggue :purple_heart:, uma empresa de processamento de pagamentos por boleto, pix e cartão de crédito. 
-
-Nosso maior desafio é manter todos os serviços e apps online durante 100% do tempo, visto que além de saques, transferências, pagamentos de contas, consultas, são processados milhares de transações simultâneas de mais de ~6000 clientes.
-
 ### :rocket: Estatísticas
 
 <table cellpadding="0">
